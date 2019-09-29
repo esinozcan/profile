@@ -1,6 +1,6 @@
 .container {
   width: 50%;   /* This sets the width */
-  margin: 30px 65px; /* This automatically sets left/right margins */
+  margin: 30px 50px; /* This automatically sets left/right margins */
 }
 
 .list-inline > li {
