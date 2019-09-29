@@ -1,7 +1,6 @@
 .container {
-  width: 650px;   /* This sets the width */
-  margin: 30px 120px; /* This automatically sets left/right margins */
-
+  width: 50%;   /* This sets the width */
+  margin: 30px 65px; /* This automatically sets left/right margins */
 }
 
 .list-inline > li {
@@ -18,7 +17,7 @@
   color: #B6B6B6;
 }
 
-.btn-pink {
+.btn-black {
   background-color: black;
   color: white;
   font-weight: 600px;
